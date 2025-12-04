@@ -3,7 +3,7 @@
 </div>
 
 # About Me:
-Studente universitario in Scienze Informatiche presso l'Università di Parma (UNIPR).<br>
+Neolaureato in Scienze Informatiche presso l'Università di Parma (UNIPR).<br>
 
 
 ## Socials:
