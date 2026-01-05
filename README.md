@@ -140,7 +140,7 @@
         <strong>Cybersecurity Labs</strong>
       </td>
       <td>
-        Laboratorio completo diviso in 8 moduli, dalla <strong>Recon</strong> alla <strong>Defense</strong>.<br>
+        Laboratorio completo diviso in 10 moduli, dalla <strong>Recon</strong> alla <strong>Defense</strong>.<br>
         Include tool custom per <strong>Social Engineering</strong>, simulazioni di <strong>Web Attacks</strong>, configurazione di <strong>Honeypots</strong> e Post-Exploitation.<br>
         <br>
         <i>Stack: Python, Bash, Docker, Linux Security</i>
