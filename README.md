@@ -37,7 +37,6 @@
       <img src="https://img.shields.io/badge/Bash-%2300ADD8.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
       <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
       <br>
-      
     </td>
   </tr>
   <tr>
@@ -60,7 +59,6 @@
       <img src="https://img.shields.io/badge/Ghidra-%23000000.svg?style=for-the-badge&logo=ghidra&logoColor=white" />
       <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" />
       <br>
-      
     </td>
   </tr>
   <tr>
@@ -82,7 +80,6 @@
       <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
       <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
       <br>
-      
     </td>
   </tr>
   <tr>
@@ -103,7 +100,6 @@
       <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
       <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
       <br>
-      
     </td>
   </tr>
 </table>
