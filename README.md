@@ -30,7 +30,6 @@
       </div>
     </td>
     <td>
-      <br>
       <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
       <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -47,7 +46,6 @@
       </div>
     </td>
     <td>
-      <br>
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=k&logoColor=white" />
       <img src="https://img.shields.io/badge/Nmap-%23FF0000.svg?style=for-the-badge&logo=nmap&logoColor=white" />
       <img src="https://img.shields.io/badge/Metasploit-%23008000.svg?style=for-the-badge&logo=metasploit&logoColor=white" />
@@ -70,7 +68,6 @@
       </div>
     </td>
     <td>
-      <br>
       <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -92,7 +89,6 @@
       </div>
     </td>
     <td>
-      <br>
       <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Kubernetes-%232496ED.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
