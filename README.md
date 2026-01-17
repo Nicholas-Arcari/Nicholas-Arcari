@@ -8,7 +8,7 @@
 
 <font size="4">
   <p>
-    Neolaureato in Scienze Informatiche presso l'Università di Parma (UNIPR), appassionato di <strong>Cybersecurity</strong>.<br><br>
+    Laureato in Scienze Informatiche presso l'Università di Parma (UNIPR), appassionato di <strong>Cybersecurity</strong>.<br><br>
     Esperienza in <strong>vulnerability assessment</strong>, sicurezza web (OWASP Top 10), hardening di sistemi Linux e containerizzazione.<br><br>
     Attualmente aperto a <strong>progetti, collaborazioni e posizioni junior in ambito cybersecurity</strong>.
   </p>
