@@ -120,7 +120,7 @@
     <td>
       <strong>CCNA (200-301)</strong><br>
       <font size="2">Status: <i>In corso</i></font><br>
-      <img src="https://geps.dev/progress/60" alt="Progress Bar" height="15">
+      <img src="https://geps.dev/progress/50" alt="Progress Bar" height="15">
     </td>
   </tr>
   <tr>
@@ -130,7 +130,7 @@
     <td>
       <strong>Security+ (SY0-701)</strong><br>
       <font size="2">Status: <i>In preparazione</i></font><br>
-      <img src="https://geps.dev/progress/20" alt="Progress Bar" height="15">
+      <img src="https://geps.dev/progress/05" alt="Progress Bar" height="15">
     </td>
   </tr>
 </table>
