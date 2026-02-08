@@ -2,7 +2,7 @@
 
 <img align="right" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNqYWlxODdyaTJlZHd0NmIyemEzZmN2OXhkcTVtamFvYnJ3MmFrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FWpozKBgrQD4MZwDC/giphy.gif" alt="Animated Intro" />
 
-<h1><strong>Neolaureato in Scienze Informatiche | Cybersecurity & Web Developer</strong></h1>
+<h1><strong>Laureato in Scienze Informatiche | Cybersecurity & Web Developer</strong></h1>
 
 <br>
 
