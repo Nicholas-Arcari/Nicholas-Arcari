@@ -36,6 +36,7 @@
       <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Bash-%2300ADD8.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
       <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
+      <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
       <br>
     </td>
   </tr>
@@ -46,7 +47,6 @@
       </div>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=k&logoColor=white" />
       <img src="https://img.shields.io/badge/Nmap-%23FF0000.svg?style=for-the-badge&logo=nmap&logoColor=white" />
       <img src="https://img.shields.io/badge/Metasploit-%23008000.svg?style=for-the-badge&logo=metasploit&logoColor=white" />
       <img src="https://img.shields.io/badge/Burp_Suite-%23F58536.svg?style=for-the-badge&logo=burpsuite&logoColor=white" />
@@ -75,6 +75,7 @@
       <img src="https://img.shields.io/badge/pwntools-%234B0082.svg?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/LinPEAS-%23FFC107.svg?style=for-the-badge&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/WPScan-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white" />
+      <img src="https://img.shields.io/badge/Aircrack--ng-%23000000.svg?style=for-the-badge&logo=aircrack-ng&logoColor=white" />
       <br>
     </td>
   </tr>
@@ -96,6 +97,10 @@
       <img src="https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
       <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
       <br>
     </td>
   </tr>
@@ -116,9 +121,65 @@
       <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
       <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
       <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/VMware-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white" />
+      <img src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" />
+      <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
+      <img src="https://img.shields.io/badge/Loki-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
+      <img src="https://img.shields.io/badge/Promtail-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
       <br>
     </td>
   </tr>
+  <tr> 
+      <td valign="top" width="25%">
+        <div align="center">
+           <br>📐 <br><b>Engineering</b>
+        </div>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+        <img src="https://img.shields.io/badge/AutoCAD-%23E51937.svg?style=for-the-badge&logo=autodesk&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenSCAD-%23F5C211.svg?style=for-the-badge&logo=openscad&logoColor=black" />
+        <img src="https://img.shields.io/badge/MiniZinc-%23FF6F00.svg?style=for-the-badge&logo=minizinc&logoColor=white" />
+        <img src="https://img.shields.io/badge/OPC_UA-%230077C8.svg?style=for-the-badge&logo=opc-ua&logoColor=white" />
+        <img src="https://img.shields.io/badge/Omron-%23003DA5.svg?style=for-the-badge&logo=omron&logoColor=white" />
+        <img src="https://img.shields.io/badge/MATLAB-%23E16737.svg?style=for-the-badge&logo=mathworks&logoColor=white" />
+        <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
+        <img src="https://img.shields.io/badge/Raspberry_Pi-%23A22846.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+        <br>            
+      </td>       
+    </tr>                  
+    <tr>          
+      <td valign="top" width="25%">             
+        <div align="center">
+           <br>🤖 <br><b>AI & LLM</b>                   
+        </div>    
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-%238E75B2.svg?style=for-the-badge&logo=google-gemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Copilot-%23000000.svg?style=for-the-badge&logo=github-copilot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white" />
+        <br>                  
+      </td>                      
+    </tr>
+    <tr>
+      <td valign="top" width="25%"> 
+        <div align="center">
+           <br>🖥️  <br><b>OS</b>                   
+        </div>                 
+      </td>
+      <td>        
+        <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" />    
+        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
+        <img src="https://img.shields.io/badge/Debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white" />
+        <img src="https://img.shields.io/badge/Raspberry_Pi_OS-%23A22846.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white" />                 
+        <br>                  
+      </td>                    
+    </tr>
 </table>
 
 <br>
