@@ -58,6 +58,23 @@
       <img src="https://img.shields.io/badge/Hashcat-%232D3E50.svg?style=for-the-badge&logo=hashcat&logoColor=white" />
       <img src="https://img.shields.io/badge/Ghidra-%23000000.svg?style=for-the-badge&logo=ghidra&logoColor=white" />
       <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nessus-%2300C176.svg?style=for-the-badge&logo=tenable&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenVAS-%2366BB6A.svg?style=for-the-badge&logo=openvas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nikto-%23808080.svg?style=for-the-badge&logo=nikto&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nuclei-%236C47FF.svg?style=for-the-badge&logo=nuclei&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLMap-%23FF4444.svg?style=for-the-badge&logo=sqlmap&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hydra-%230A0A0A.svg?style=for-the-badge&logo=hydra&logoColor=white" />
+      <img src="https://img.shields.io/badge/John_the_Ripper-%23BA1515.svg?style=for-the-badge&logo=john-the-ripper&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gobuster-%23E07C24.svg?style=for-the-badge&logo=gobuster&logoColor=white" />
+      <img src="https://img.shields.io/badge/ffuf-%23FF6600.svg?style=for-the-badge&logo=ffuf&logoColor=white" />
+      <img src="https://img.shields.io/badge/Shodan-%23C62A2A.svg?style=for-the-badge&logo=shodan&logoColor=white" />
+      <img src="https://img.shields.io/badge/Maltego-%23172B4D.svg?style=for-the-badge&logo=maltego&logoColor=white" />
+      <img src="https://img.shields.io/badge/Snort-%23FF0040.svg?style=for-the-badge&logo=snort&logoColor=white" />
+      <img src="https://img.shields.io/badge/Suricata-%23F6A829.svg?style=for-the-badge&logo=suricata&logoColor=white" />
+      <img src="https://img.shields.io/badge/Netcat-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+      <img src="https://img.shields.io/badge/pwntools-%234B0082.svg?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinPEAS-%23FFC107.svg?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/WPScan-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white" />
       <br>
     </td>
   </tr>
