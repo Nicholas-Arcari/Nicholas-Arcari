@@ -110,6 +110,30 @@ Attualmente alla ricerca di <b>posizioni junior come cybersecurity analyst</b>.
       </a>
     </td>
   </tr>
+  <tr>
+    <td><b>Detection Engineering</b></td>
+    <td>
+      Library of custom detection rules across <b>4 major formats</b>: Sigma (SIEM-agnostic), Yara (malware detection), Suricata (network IDS), and Wazuh (HIDS/SIEM). Rules organized by <b>MITRE ATT&CK</b> tactic - from credential access and lateral movement to exfiltration and C2 detection. Includes lab setup guides, <b>Atomic Red Team</b> test mappings, Kibana/Grafana dashboards, and CI/CD rule validation. Full ATT&CK Navigator coverage heatmaps.<br>
+      <sub>Sigma, Yara, Suricata, Wazuh, ELK Stack, MITRE ATT&CK</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Nicholas-Arcari/detection-engineering">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>SOC Toolkit</b></td>
+    <td>
+      Modular <b>SOC analyst toolkit</b> with REST API backend (Python/FastAPI) and React frontend. Three integrated modules: <b>Phishing Analyzer</b> (email header analysis, URL/attachment scanning, automated verdict), <b>Log Analyzer</b> (SSH brute force, web logs, Windows events with geolocation and alerting), and <b>IOC Extractor</b> (extracts indicators from PDFs, emails, and raw text). Integrates with <b>VirusTotal, AbuseIPDB, Shodan, URLScan.io</b>, and AlienVault OTX. Exports to JSON, CSV, and PDF reports.<br>
+      <sub>Python, FastAPI, React, Vite, Docker, VirusTotal API, SQLite</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Nicholas-Arcari/soc-toolkit">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 <p align="right">
