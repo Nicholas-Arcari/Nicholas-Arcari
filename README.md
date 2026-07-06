@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-arcari-6245893a7)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arcari.nicholas0@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nicholas-Arcari)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=react&logoColor=black)](https://nicholas-arcari.github.io/portfolio-nicholas/)
 
 </div>
 
@@ -16,20 +17,20 @@
 
 ## About Me
 
-Computer Science graduate from the University of Parma, focused on **cybersecurity**. I build home labs, break things to understand how they work, and document everything I learn.
+Computer Science graduate from the University of Parma, now pursuing a **Master's Degree in Cybersecurity** in Rome. I build home labs, break things to understand how they work, and document everything I learn.
 
 Hands-on experience with **vulnerability assessment**, **SIEM deployment** (Wazuh), **network security monitoring**, and **Linux hardening**. I approach security from both the offensive and defensive side.
 
-Currently seeking **junior cybersecurity analyst positions**.
+Currently seeking **junior cybersecurity analyst positions** - also available for **freelance cybersecurity work** via my [portfolio](https://nicholas-arcari.github.io/portfolio-nicholas/).
 
 <details>
 <summary>In italiano</summary>
 <br>
-Laureato in Scienze Informatiche all'Universita di Parma, con focus sulla <b>cybersecurity</b>. Costruisco laboratori, analizzo sistemi per capirne le vulnerabilita e documento tutto cio che imparo.
+Laureato in Scienze Informatiche all'Universita di Parma, ora impegnato nella <b>Laurea Magistrale in Sicurezza Informatica</b> a Roma. Costruisco laboratori, analizzo sistemi per capirne le vulnerabilita e documento tutto cio che imparo.
 <br><br>
 Esperienza pratica in <b>vulnerability assessment</b>, deployment <b>SIEM</b> (Wazuh), <b>network security monitoring</b> e <b>hardening Linux</b>. Approccio la sicurezza sia dal lato offensivo che difensivo.
 <br><br>
-Attualmente alla ricerca di <b>posizioni junior come cybersecurity analyst</b>.
+Attualmente alla ricerca di <b>posizioni junior come cybersecurity analyst</b>, disponibile anche per <b>collaborazioni freelance</b> in ambito sicurezza.
 </details>
 
 <br clear="right"/>
@@ -40,8 +41,9 @@ Attualmente alla ricerca di <b>posizioni junior come cybersecurity analyst</b>.
 
 | Certification | Status | Progress |
 |---|---|---|
-| **Cisco CCNA** (200-301) | 📖 Studying | ![](https://geps.dev/progress/50) |
-| **CompTIA Security+** (SY0-701) | 📋 Planned | ![](https://geps.dev/progress/5) |
+| **Cisco CCNA** (200-301) | 📖 Studying | ![](https://geps.dev/progress/60) |
+| **IELTS English B2** | 📖 In Progress | ![](https://geps.dev/progress/90) |
+| **CompTIA Security+** (SY0-701) | 📋 Preparing | ![](https://geps.dev/progress/0) |
 | **eJPT** (eLearnSecurity) | 🎯 Next | - |
 | **BTL1** (Blue Team Level 1) | 🎯 Planned | - |
 
@@ -53,8 +55,8 @@ Attualmente alla ricerca di <b>posizioni junior come cybersecurity analyst</b>.
   <tr>
     <td width="180"><b>Cybersecurity Labs</b></td>
     <td>
-      Full-stack cybersecurity training environment with <b>10 progressive modules</b> - from OSINT reconnaissance and vulnerability scanning to web exploitation, privilege escalation, post-exploitation, and digital forensics. Each module follows the <b>Kill Chain</b> methodology and is mapped to the <b>MITRE ATT&CK</b> framework. Includes a complete VirtualBox lab topology, documented attack scenarios, and secure coding remediation. <b>50+ findings</b> documented: 10+ Critical, 20 High, 10 Medium severity across web, system, and cloud attack surfaces.<br>
-      <sub>Python, Bash, Docker, VirtualBox, MITRE ATT&CK</sub>
+      Full-stack cybersecurity training environment with <b>10 progressive modules</b> - from OSINT reconnaissance and vulnerability scanning to web exploitation, privilege escalation, post-exploitation, and digital forensics. Each module follows the <b>Kill Chain</b> methodology and is mapped to the <b>MITRE ATT&CK</b> framework. <b>60 documented findings</b> across recon, vulnerability assessment, web, and system exploitation - written up like a real engagement, with executive summary, report standards, and certification mapping. Complete VirtualBox lab topology, secure coding remediation, and <b>fully bilingual (EN/IT)</b> documentation.<br>
+      <sub>Python, Bash, Docker, VirtualBox, MITRE ATT&CK, MkDocs</sub>
     </td>
     <td align="center">
       <a href="https://github.com/Nicholas-Arcari/cybersecurity-labs">
@@ -65,8 +67,8 @@ Attualmente alla ricerca di <b>posizioni junior come cybersecurity analyst</b>.
   <tr>
     <td><b>Security Home Lab</b></td>
     <td>
-      Real-world home security infrastructure built on a <b>Raspberry Pi 5</b> (8GB RAM, NVMe SSD). Runs a full <b>SOC-style stack</b>: Wazuh SIEM for log collection and threat alerting, Cowrie SSH/Telnet honeypot for intrusion detection, WireGuard VPN for secure remote access, and Pi-hole for DNS-level filtering. Network hardened with <b>VLAN segmentation</b>, UFW firewall rules, and Fail2ban. All services containerized with Docker and managed through Portainer. Also serves as a secure NAS via OpenMediaVault.<br>
-      <sub>Linux, Docker, Portainer, Wazuh, WireGuard, Pi-hole, Cowrie, OpenMediaVault</sub>
+      Real-world home security infrastructure built on a <b>Raspberry Pi 5</b> (8GB RAM, NVMe SSD). Runs a full <b>SOC-style stack</b>: Wazuh SIEM for log collection and threat alerting, Cowrie SSH/Telnet honeypot for intrusion detection, WireGuard VPN for secure remote access, and Pi-hole for DNS-level filtering. Network hardened with <b>VLAN segmentation</b>, UFW firewall rules, and Fail2ban. All services containerized with Docker and managed through Portainer, with a <b>modular automation script</b> that redeploys the entire stack (hardening, Docker, Pi-hole, WireGuard, Cowrie, VLAN, Wazuh) from scratch. Also serves as a secure NAS via OpenMediaVault. Bilingual docs (EN/IT).<br>
+      <sub>Linux, Bash, Docker, Portainer, Wazuh, WireGuard, Pi-hole, Cowrie, OpenMediaVault</sub>
     </td>
     <td align="center">
       <a href="https://github.com/Nicholas-Arcari/RaspberryPi">
@@ -77,7 +79,7 @@ Attualmente alla ricerca di <b>posizioni junior come cybersecurity analyst</b>.
   <tr>
     <td><b>Tor Network Analysis</b></td>
     <td>
-      Comprehensive technical deep-dive into the <b>Tor network</b> - covering onion routing protocol mechanics, <b>circuit cryptography</b> (AES-128-CTR, ntor handshake), directory authority infrastructure, and bridge/relay configuration. Documents known <b>attacks and defenses</b> (traffic correlation, browser fingerprinting, DNS leaks), operational security best practices, and legal/ethical considerations. Includes <b>5 hands-on labs</b> from basic setup to hidden service deployment, automation scripts, and <b>210+ automated validation checks</b>.<br>
+      Comprehensive technical deep-dive into the <b>Tor network</b> - covering onion routing protocol mechanics, <b>circuit cryptography</b> (AES-128-CTR, ntor handshake), directory authority infrastructure, and bridge/relay configuration. Documents known <b>attacks and defenses</b> (traffic correlation, browser fingerprinting, DNS leaks), operational security best practices, and legal/ethical considerations. Includes <b>5 hands-on labs</b> from basic setup to hidden service deployment, automation scripts, and <b>210+ automated validation checks</b>. Fully bilingual documentation (EN/IT).<br>
       <sub>Tor, Shell, Python, Proxychains, Network Security, OPSEC</sub>
     </td>
     <td align="center">
@@ -89,7 +91,7 @@ Attualmente alla ricerca di <b>posizioni junior come cybersecurity analyst</b>.
   <tr>
     <td><b>Hardware Security Research</b></td>
     <td>
-      Security research and auditing of physical access control systems using <b>Flipper Zero</b> with Rogue Master firmware. Covers <b>Sub-GHz</b> radio signal capture and replay, <b>NFC/RFID</b> tag cloning and security assessment, infrared protocol analysis, and <b>BadUSB</b> payload development for authorized penetration testing. Explores GPIO integration and hardware hacking fundamentals.<br>
+      Security research and auditing of physical access control systems using <b>Flipper Zero</b> with Rogue Master firmware. Covers <b>Sub-GHz</b> radio signal capture and replay, <b>NFC/RFID</b> tag cloning and security assessment, infrared protocol analysis, and <b>BadUSB</b> payload development for authorized penetration testing. Explores GPIO integration and hardware hacking fundamentals. Bilingual docs (EN/IT).<br>
       <sub>Flipper Zero, C, Radio Protocols, NFC/RFID, GPIO, BadUSB</sub>
     </td>
     <td align="center">
@@ -101,8 +103,8 @@ Attualmente alla ricerca di <b>posizioni junior come cybersecurity analyst</b>.
   <tr>
     <td><b>CTF Writeups</b></td>
     <td>
-      Collection of <b>Capture The Flag</b> writeups and walkthroughs - covering web exploitation, privilege escalation, forensics, cryptography, and reverse engineering challenges. Each writeup documents the full methodology: reconnaissance, vulnerability identification, exploitation, and lessons learned.<br>
-      <sub>Python, Bash, Burp Suite, Wireshark, Ghidra</sub>
+      <b>15 Capture The Flag writeups</b> across <b>7 categories</b> - web exploitation, privilege escalation, forensics, network analysis, cryptography, reverse engineering, and misc (OSINT, steganography). Every writeup is mapped to <b>MITRE ATT&CK</b> and documents the full methodology: reconnaissance, vulnerability identification, exploitation, and lessons learned.<br>
+      <sub>Python, Bash, Burp Suite, Wireshark, Ghidra, Volatility</sub>
     </td>
     <td align="center">
       <a href="https://github.com/Nicholas-Arcari/ctf-writeups">
@@ -125,11 +127,23 @@ Attualmente alla ricerca di <b>posizioni junior come cybersecurity analyst</b>.
   <tr>
     <td><b>SOC Toolkit</b></td>
     <td>
-      Modular <b>SOC analyst toolkit</b> with REST API backend (Python/FastAPI) and React frontend. Three integrated modules: <b>Phishing Analyzer</b> (email header analysis, URL/attachment scanning, automated verdict), <b>Log Analyzer</b> (SSH brute force, web logs, Windows events with geolocation and alerting), and <b>IOC Extractor</b> (extracts indicators from PDFs, emails, and raw text). Integrates with <b>VirusTotal, AbuseIPDB, Shodan, URLScan.io</b>, and AlienVault OTX. Exports to JSON, CSV, and PDF reports.<br>
-      <sub>Python, FastAPI, React, Vite, Docker, VirusTotal API, SQLite</sub>
+      Production-grade <b>SOC analyst suite</b> - a monorepo shipping two apps on a shared library: <b>soc-toolkit</b> (blue-team workflows) and <b>osint-toolkit</b> (attack-surface management and investigative OSINT). <b>10 analyst modules</b>: Phishing Analyzer, Log Analyzer, IOC Extractor, IOC Pivot, YARA Scanner, Sigma Detection, MISP Enrichment, File Inspector, Link Analyzer, QR Analyzer. Enrichment via <b>VirusTotal, AbuseIPDB, Shodan, URLScan.io, OTX</b>, and MalwareBazaar. Optional JWT accounts (single-tenant or SaaS), <b>offline Ed25519 license activation</b>, HTTPS reverse proxy, bilingual UI (EN/IT), and JSON/CSV/PDF report export. <b>Now a private, commercial product</b> - the self-hosted SOC Suite ships as a Dockerized deploy package.<br>
+      <sub>Python 3.12, FastAPI, React 18, TypeScript, Vite, Tailwind, Docker</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/Nicholas-Arcari/soc-toolkit">
+      <a href="https://nicholas-arcari.github.io/portfolio-nicholas/#/cyber-services" title="Private repository - SOC Suite product page">
+        🔒<br /><sub>Private</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Portfolio Website</b></td>
+    <td>
+      Personal portfolio and <b>freelance services</b> site built as a React SPA - bilingual content (EN/IT), light/dark theme, terminal-style animations, and client-side routing. Showcases education, projects, <b>cybersecurity architect/engineer services</b>, and a <b>SOC Suite product page</b> with a downloadable deploy package. Live at <a href="https://nicholas-arcari.github.io/portfolio-nicholas/">nicholas-arcari.github.io/portfolio-nicholas</a>.<br>
+      <sub>React 19, Vite, React Router 7, JavaScript, CSS, GitHub Pages</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Nicholas-Arcari/portfolio-nicholas">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320" />
       </a>
     </td>
@@ -138,6 +152,26 @@ Attualmente alla ricerca di <b>posizioni junior come cybersecurity analyst</b>.
 
 <p align="right">
   <a href="https://github.com/Nicholas-Arcari?tab=repositories"><b>→ All repositories</b></a>
+</p>
+
+---
+
+## 💼 Freelance Engagement: Industrial IT/OT Security
+
+Beyond the labs and open-source work, I design and secure real production systems. As part of an **Industry 4.0** freelance engagement I authored the **security architecture for an IT/OT convergence** scenario: a Docker-based industrial production-management platform (machine communication over **OPC-UA / Modbus**) that had to expose a public-facing microservice while previously air-gapped **PLC and HMI controllers** were still sitting on a flat network.
+
+The engagement re-architected the environment end to end:
+
+- **Segmentation** - Purdue model with an **Industrial DMZ (Level 3.5)**, VLAN isolation, Hyper-V vSwitch separation, and an **IEC 62443 "Zones & Conduits"** default-deny flow matrix
+- **Zero-Trust access** - no inbound ports exposed: **Cloudflare Tunnel** for publication plus a **Tailscale / WireGuard** overlay to a hardened jump server
+- **Detection & response** - **Wazuh** SIEM/XDR with **Suricata** NIDS (Modbus deep-packet inspection), a **Conpot** ICS honeypot, and **YARA** hunting for OT malware (FrostyGoop, Industroyer, PIPEDREAM), mapped to **MITRE ATT&CK for ICS**
+- **Governance** - risk analysis, safety-first incident-response playbooks (human-in-the-loop for any action toward the plant), and **NIS2 / Cyber Resilience Act** compliance alignment
+
+<sub>Purdue Model, IEC 62443, iDMZ, Wazuh, Suricata, Conpot, YARA, Tailscale, Cloudflare Zero Trust, K3s, Modbus/OPC-UA, MITRE ATT&CK for ICS</sub>
+
+<p align="right">
+  <sub>🔒 Client engagement: full architecture documentation is confidential.</sub> &nbsp;
+  <a href="https://nicholas-arcari.github.io/portfolio-nicholas/#/cyber-services"><b>→ IT/OT security services</b></a>
 </p>
 
 ---
