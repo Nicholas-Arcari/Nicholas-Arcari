@@ -143,7 +143,9 @@ Attualmente alla ricerca di <b>posizioni junior come cybersecurity analyst</b>, 
       <sub>Python 3.12, FastAPI, SQLAlchemy 2.0, PostgreSQL/JSONB, React 18, TypeScript, Tailwind, Docker, Nuitka</sub>
     </td>
     <td align="center">
-      🔒<br /><sub>Private</sub>
+      <a href="https://nicholas-arcari.github.io/portfolio-nicholas/#/cyber-services" title="Private repository - Citizen Shield product page">
+        🔒<br /><sub>Private</sub>
+      </a>
     </td>
   </tr>
   <tr>
