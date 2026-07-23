@@ -143,7 +143,7 @@ Attualmente alla ricerca di <b>posizioni junior come cybersecurity analyst</b>, 
       <sub>Python 3.12, FastAPI, SQLAlchemy 2.0, PostgreSQL/JSONB, React 18, TypeScript, Tailwind, Docker, Nuitka</sub>
     </td>
     <td align="center">
-      <a href="https://nicholas-arcari.github.io/portfolio-nicholas/#/cyber-services" title="Private repository - Citizen Shield product page">
+      <a href="https://nicholas-arcari.github.io/portfolio-nicholas/#/citizen-shield" title="Private repository - Citizen Shield product page">
         🔒<br /><sub>Private</sub>
       </a>
     </td>
@@ -151,7 +151,7 @@ Attualmente alla ricerca di <b>posizioni junior come cybersecurity analyst</b>, 
   <tr>
     <td><b>Portfolio Website</b></td>
     <td>
-      Personal portfolio and <b>freelance services</b> site built as a React SPA - bilingual content (EN/IT), light/dark theme, terminal-style animations, and client-side routing. Showcases education, projects, <b>cybersecurity architect/engineer services</b>, and product pages for the <b>SOC Suite</b> (with a downloadable deploy package) and <b>Citizen Shield</b>. Live at <a href="https://nicholas-arcari.github.io/portfolio-nicholas/">nicholas-arcari.github.io/portfolio-nicholas</a>.<br>
+      Personal portfolio and <b>freelance services</b> site built as a React SPA - bilingual content (EN/IT), light/dark theme, terminal-style animations, and client-side routing. Showcases education, projects, <b>cybersecurity architect/engineer services</b>, and dedicated product pages for the <b>SOC Suite</b> (with a downloadable deploy package) and <b>Citizen Shield</b>. Live at <a href="https://nicholas-arcari.github.io/portfolio-nicholas/">nicholas-arcari.github.io/portfolio-nicholas</a>.<br>
       <sub>React 19, Vite, React Router 7, JavaScript, CSS, GitHub Pages</sub>
     </td>
     <td align="center">
