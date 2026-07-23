@@ -17,7 +17,7 @@
 
 ## About Me
 
-Computer Science graduate from the University of Parma, now pursuing a **Master's Degree in Cybersecurity** in Rome. I build home labs, break things to understand how they work, and document everything I learn.
+Computer Science graduate from the University of Parma, now a **MSc student in Cybersecurity (LM-66) at Sapienza University of Rome**. I build home labs, break things to understand how they work, and document everything I learn.
 
 Hands-on experience with **vulnerability assessment**, **SIEM deployment** (Wazuh), **network security monitoring**, and **Linux hardening**. I approach security from both the offensive and defensive side.
 
@@ -26,7 +26,7 @@ Currently seeking **junior cybersecurity analyst positions** - also available fo
 <details>
 <summary>In italiano</summary>
 <br>
-Laureato in Scienze Informatiche all'Universita di Parma, ora impegnato nella <b>Laurea Magistrale in Sicurezza Informatica</b> a Roma. Costruisco laboratori, analizzo sistemi per capirne le vulnerabilita e documento tutto cio che imparo.
+Laureato in Scienze Informatiche all'Universita di Parma, ora <b>studente della Laurea Magistrale in Cybersecurity (LM-66) alla Sapienza di Roma</b>. Costruisco laboratori, analizzo sistemi per capirne le vulnerabilita e documento tutto cio che imparo.
 <br><br>
 Esperienza pratica in <b>vulnerability assessment</b>, deployment <b>SIEM</b> (Wazuh), <b>network security monitoring</b> e <b>hardening Linux</b>. Approccio la sicurezza sia dal lato offensivo che difensivo.
 <br><br>
@@ -137,9 +137,19 @@ Attualmente alla ricerca di <b>posizioni junior come cybersecurity analyst</b>, 
     </td>
   </tr>
   <tr>
+    <td><b>Citizen Shield</b></td>
+    <td>
+      Personal <b>OPSEC, privacy and citizen-defense platform</b> for people dealing with cyberstalking, doxxing, sextortion or a compromised device. Split architecture by design: a <b>cloud control plane</b> (FastAPI - accounts, licensing, live WebSocket dashboard) plus a <b>local Docker agent</b> that runs every scanning tool on the user's own machine, so no heavy tooling ever executes on my infrastructure. <b>8 modules</b>: digital-footprint OSINT, data-broker opt-out, sextortion panic room, smart-home sanitizer, phishing and scam triage, travel OPSEC, cloud account lockdown, and mobile stalkerware forensics. Privacy layer built in: <b>zero-knowledge AES-256-GCM</b> client-side encryption, enforced retention with hard-delete countdown, a Quick Exit panic button, and SHA-256 + <b>RFC 3161</b> timestamped PDF reports. <b>In development - private, closed-source product.</b><br>
+      <sub>Python 3.12, FastAPI, SQLAlchemy 2.0, PostgreSQL/JSONB, React 18, TypeScript, Tailwind, Docker, Nuitka</sub>
+    </td>
+    <td align="center">
+      🔒<br /><sub>Private</sub>
+    </td>
+  </tr>
+  <tr>
     <td><b>Portfolio Website</b></td>
     <td>
-      Personal portfolio and <b>freelance services</b> site built as a React SPA - bilingual content (EN/IT), light/dark theme, terminal-style animations, and client-side routing. Showcases education, projects, <b>cybersecurity architect/engineer services</b>, and a <b>SOC Suite product page</b> with a downloadable deploy package. Live at <a href="https://nicholas-arcari.github.io/portfolio-nicholas/">nicholas-arcari.github.io/portfolio-nicholas</a>.<br>
+      Personal portfolio and <b>freelance services</b> site built as a React SPA - bilingual content (EN/IT), light/dark theme, terminal-style animations, and client-side routing. Showcases education, projects, <b>cybersecurity architect/engineer services</b>, and product pages for the <b>SOC Suite</b> (with a downloadable deploy package) and <b>Citizen Shield</b>. Live at <a href="https://nicholas-arcari.github.io/portfolio-nicholas/">nicholas-arcari.github.io/portfolio-nicholas</a>.<br>
       <sub>React 19, Vite, React Router 7, JavaScript, CSS, GitHub Pages</sub>
     </td>
     <td align="center">
