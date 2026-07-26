@@ -42,7 +42,7 @@ Attualmente alla ricerca di <b>posizioni junior come cybersecurity analyst</b>, 
 | Certification | Status | Progress |
 |---|---|---|
 | **Cisco CCNA** (200-301) | 📖 Studying | ![](https://geps.dev/progress/60) |
-| **CompTIA Security+** (SY0-701) | 📋 Preparing | ![](https://geps.dev/progress/0) |
+| **CompTIA Security+** (SY0-701) | 📖 Studying | ![](https://geps.dev/progress/50) |
 | **eJPT** (eLearnSecurity) | 🎯 Next | - |
 | **BTL1** (Blue Team Level 1) | 🎯 Planned | - |
 
