@@ -148,6 +148,16 @@ Attualmente alla ricerca di <b>posizioni junior come cybersecurity analyst</b>, 
     </td>
   </tr>
   <tr>
+    <td><b>FinanzMe</b></td>
+    <td>
+      Self-hosted, <b>multi-user personal finance tracker</b> (2-5 people) with automated expense tracking via <b>PSD2 open banking</b> (GoCardless Bank Account Data), designed to be extensible toward a future stocks/ETF trading bot. <b>Microservices architecture</b>: a <b>Java 21 + Spring Boot 3</b> core API, a <b>Python 3.12 + FastAPI</b> analytics/ML service, and an async <b>RabbitMQ ingestion worker</b> for open-banking fetches. Hardened platform by design: <b>Keycloak</b> (OIDC/JWT) for auth, <b>HashiCorp Vault</b> for secrets, <b>Traefik v3</b> for edge TLS, <b>PostgreSQL 16 + TimescaleDB</b> and Redis for persistence, and a full <b>Prometheus + Loki + Grafana</b> observability stack. <b>In development - not yet published.</b><br>
+      <sub>Java 21, Spring Boot 3, Python 3.12, FastAPI, React 18, TypeScript, PostgreSQL/TimescaleDB, Redis, RabbitMQ, Keycloak, Vault, Traefik, Docker</sub>
+    </td>
+    <td align="center">
+      🚧<br /><sub>Coming soon</sub>
+    </td>
+  </tr>
+  <tr>
     <td><b>Portfolio Website</b></td>
     <td>
       Personal portfolio and <b>freelance services</b> site built as a React SPA - bilingual content (EN/IT), light/dark theme, terminal-style animations, and client-side routing. Showcases education, projects, <b>cybersecurity architect/engineer services</b>, and dedicated product pages for the <b>SOC Suite</b> (with a downloadable deploy package) and <b>Citizen Shield</b>. Live at <a href="https://nicholas-arcari.github.io/portfolio-nicholas/">nicholas-arcari.github.io/portfolio-nicholas</a>.<br>
