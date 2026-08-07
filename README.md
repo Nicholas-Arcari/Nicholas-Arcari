@@ -154,7 +154,9 @@ Attualmente alla ricerca di <b>posizioni junior come cybersecurity analyst</b>, 
       <sub>Java 21, Spring Boot 3, Python 3.12, FastAPI, React 18, TypeScript, PostgreSQL/TimescaleDB, Redis, RabbitMQ, Keycloak, Vault, Traefik, Docker</sub>
     </td>
     <td align="center">
-      🚧<br /><sub>Coming soon</sub>
+      <a href="https://nicholas-arcari.github.io/portfolio-nicholas/#/finanzme" title="Private repository - FinanzMe product page">
+        🔒<br /><sub>Private</sub>
+      </a>
     </td>
   </tr>
   <tr>
