@@ -160,9 +160,21 @@ Attualmente alla ricerca di <b>posizioni junior come cybersecurity analyst</b>, 
     </td>
   </tr>
   <tr>
+    <td><b>ByteBulk</b></td>
+    <td>
+      Self-hosted, single-tenant <b>macronutrient tracker</b> for a bulking phase - runs on your own machine via Docker and is used from the phone over LAN or Tailscale as an installed PWA. <b>Java 21 + Spring Boot 3.4</b> backend on <b>PostgreSQL 16</b>, with daily targets derived from the <b>Mifflin-St Jeor</b> equation and a macro split anchored to body weight. <b>Offline-first React 18 + TypeScript PWA</b>: meals are written to <b>IndexedDB</b> before any network call and drained by an <b>outbox + Background Sync</b> Service Worker, with a client-minted UUID the server de-duplicates on, so a retry after a dropped connection can never double-count a meal. Camera <b>barcode scanning</b> against <b>OpenFoodFacts</b>, proxied server-side behind a <b>Caffeine</b> cache that never caches transport failures, plus a durable local pantry for offline lookups. Advice engine is <b>database-driven</b> - macro thresholds, intolerance gating and time windows live in a table, so adding guidance is an INSERT, not a release. Every timestamp stored in <b>UTC</b> while the logical day is decided by the device. <b>Caddy</b> reverse proxy with a private CA: the secure context that camera access and PWA install both require. <b>Personal project - self-hosted.</b><br>
+      <sub>Java 21, Spring Boot 3.4, PostgreSQL 16, Caffeine, React 18, TypeScript, Vite PWA, Dexie/IndexedDB, TanStack Query, TailwindCSS, Caddy, Docker</sub>
+    </td>
+    <td align="center">
+      <a href="https://nicholas-arcari.github.io/portfolio-nicholas/#/bytebulk" title="Personal project - ByteBulk product page">
+        🔒<br /><sub>Private</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td><b>Portfolio Website</b></td>
     <td>
-      Personal portfolio and <b>freelance services</b> site built as a React SPA - bilingual content (EN/IT), light/dark theme, terminal-style animations, and client-side routing. Showcases education, projects, <b>cybersecurity architect/engineer services</b>, and dedicated product pages for the <b>SOC Suite</b> (with a downloadable deploy package) and <b>Citizen Shield</b>. Live at <a href="https://nicholas-arcari.github.io/portfolio-nicholas/">nicholas-arcari.github.io/portfolio-nicholas</a>.<br>
+      Personal portfolio and <b>freelance services</b> site built as a React SPA - bilingual content (EN/IT), light/dark theme, terminal-style animations, and client-side routing. Showcases education, projects, <b>cybersecurity architect/engineer services</b>, and dedicated product pages across three service tracks - cybersecurity (<b>SOC Suite</b>, with a downloadable deploy package, and <b>Citizen Shield</b>), finance (<b>FinanzMe</b>) and extra (<b>ByteBulk</b>). Live at <a href="https://nicholas-arcari.github.io/portfolio-nicholas/">nicholas-arcari.github.io/portfolio-nicholas</a>.<br>
       <sub>React 19, Vite, React Router 7, JavaScript, CSS, GitHub Pages</sub>
     </td>
     <td align="center">
