@@ -2,7 +2,7 @@
 
 # Nicholas Arcari
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Aspiring+Cybersecurity+Analyst;Vulnerability+Assessment+%26+SIEM;Network+Security+%7C+Linux+Hardening;Home+Lab+Builder+%7C+CTF+Player" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Aspiring+Cybersecurity+Analyst;Vulnerability+Assessment+%26+SIEM;Network+Security+%7C+Linux+Hardening;Home+Lab+Builder" alt="Typing SVG" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-arcari-6245893a7)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arcari.nicholas0@gmail.com)
@@ -95,30 +95,6 @@ Attualmente alla ricerca di <b>posizioni junior come cybersecurity analyst</b>, 
     </td>
     <td align="center">
       <a href="https://github.com/Nicholas-Arcari/FlipperZero-guide">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>CTF Writeups</b></td>
-    <td>
-      <b>15 Capture The Flag writeups</b> across <b>7 categories</b> - web exploitation, privilege escalation, forensics, network analysis, cryptography, reverse engineering, and misc (OSINT, steganography). Every writeup is mapped to <b>MITRE ATT&CK</b> and documents the full methodology: reconnaissance, vulnerability identification, exploitation, and lessons learned.<br>
-      <sub>Python, Bash, Burp Suite, Wireshark, Ghidra, Volatility</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Nicholas-Arcari/ctf-writeups">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Detection Engineering</b></td>
-    <td>
-      Library of custom detection rules across <b>4 major formats</b>: Sigma (SIEM-agnostic), Yara (malware detection), Suricata (network IDS), and Wazuh (HIDS/SIEM). Rules organized by <b>MITRE ATT&CK</b> tactic - from credential access and lateral movement to exfiltration and C2 detection. Includes lab setup guides, <b>Atomic Red Team</b> test mappings, Kibana/Grafana dashboards, and CI/CD rule validation. Full ATT&CK Navigator coverage heatmaps.<br>
-      <sub>Sigma, Yara, Suricata, Wazuh, ELK Stack, MITRE ATT&CK</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Nicholas-Arcari/detection-engineering">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320" />
       </a>
     </td>
